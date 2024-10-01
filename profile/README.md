@@ -1,5 +1,7 @@
 # MerryQuery
 
+MQ is a LLM-Powered LMS.
+
 ## Code & Issues
 
 https://github.com/benneigh/MerryQuery/

@@ -1,6 +1,10 @@
 # MerryQuery
 
-MQ is a LLM-Powered LMS.
+MQ is a LLM-powered learning platform.
+
+## Homepage
+
+https://exploremq.benyamintabarsi.com/
 
 ## Code & Issues
 

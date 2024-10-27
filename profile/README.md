@@ -1,6 +1,6 @@
 # MerryQuery
 
-MQ is a LLM-powered learning platform.
+MerryQuery is a LLM-powered learning platform.
 
 ## Homepage
 
@@ -10,10 +10,10 @@ https://exploremq.benyamintabarsi.com/
 
 https://github.com/benneigh/MerryQuery/
 
-## Progress
+<!-- ## Progress
 
 - kanban: https://github.com/users/tddschn/projects/3/views/2
-- timeline: https://github.com/users/tddschn/projects/3/views/3
+- timeline: https://github.com/users/tddschn/projects/3/views/3 -->
 
 <!-- ## Demo Instance -->
 
